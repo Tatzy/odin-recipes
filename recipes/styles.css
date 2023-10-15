@@ -1,0 +1,31 @@
+body{
+    background-color: #FDF0F0;
+    font-family: 'Courier New', Courier, monospace; 
+    border:5px dotted #f57e8c; 
+    padding: 20px;
+}
+
+.title {      
+    text-align: center;
+    font-size: 100px;
+    margin: 0 auto 55px;
+    padding-top: 10px;
+    color: #d7717d;
+    background-color: #FDF0F0;
+    
+}
+
+.description {
+    border: #f57e8c solid;
+    margin-bottom: 50px;
+    padding: 20px;
+    font-size: larger;
+}
+
+img{
+   width: 25%;
+   height: auto;
+   border: #f57e8c solid;
+   margin-bottom: 50px;
+   border-radius: 80%;
+}
